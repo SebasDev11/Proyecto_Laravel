@@ -22,7 +22,7 @@
                         
                         <div class="form-group">
                             <strong>Id Estudiante:</strong>
-                            {{ $nota->id_Estudiante->name }}
+                            {{ $nota->name }}
                         </div>
                         <div class="form-group">
                             <strong>Nota3:</strong>
